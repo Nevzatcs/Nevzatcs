@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Nevzat Can.
+I'm a self motivated software learner.
+I'm currently working on Java programming language.
+I have knowlege of C, Java and SQL.
+
+Here are some ideas to get you started:
+
+
+- 🌱 I’m currently learning Backend Tech.
+
+- 📫 How to reach me: https://www.linkedin.com/in/nevzatcansamur/
+
