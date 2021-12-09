@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi, I'm Nevzat Can.
 I'm a self motivated software learner.
 I'm currently working on Java programming language.
-I have knowlege of C, Java and SQL.
+I have knowlege of C, Java.
 
 Here are some ideas to get you started:
 
