@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as Backend Developer at Tapucom.  I’m currently learning Backend Tech.
+I'm currently working as Backend Developer at Tapucom.  I’m learning Backend and Cloud Techs.
 
 
 ## 🌐 Socials:
