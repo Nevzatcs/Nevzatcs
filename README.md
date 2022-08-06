@@ -18,3 +18,4 @@ I'm currently working as Backend Developer at Tapucom.  I’m learning Backend a
 
 ---
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nevzatcs.visitor-badge)
+
